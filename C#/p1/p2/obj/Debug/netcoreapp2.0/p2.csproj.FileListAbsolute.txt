@@ -1,0 +1,11 @@
+C:\Users\ben90\OneDrive\Documents\PROGRAMING_2\Object Oriented Development\p1\p2\obj\Debug\netcoreapp2.0\p2.csprojResolveAssemblyReference.cache
+C:\Users\ben90\OneDrive\Documents\PROGRAMING_2\Object Oriented Development\p1\p2\obj\Debug\netcoreapp2.0\p2.csproj.CoreCompileInputs.cache
+C:\Users\ben90\OneDrive\Documents\PROGRAMING_2\Object Oriented Development\p1\p2\obj\Debug\netcoreapp2.0\p2.AssemblyInfoInputs.cache
+C:\Users\ben90\OneDrive\Documents\PROGRAMING_2\Object Oriented Development\p1\p2\obj\Debug\netcoreapp2.0\p2.AssemblyInfo.cs
+C:\Users\ben90\OneDrive\Documents\PROGRAMING_2\Object Oriented Development\p1\p2\bin\Debug\netcoreapp2.0\p2.deps.json
+C:\Users\ben90\OneDrive\Documents\PROGRAMING_2\Object Oriented Development\p1\p2\bin\Debug\netcoreapp2.0\p2.dll
+C:\Users\ben90\OneDrive\Documents\PROGRAMING_2\Object Oriented Development\p1\p2\bin\Debug\netcoreapp2.0\p2.pdb
+C:\Users\ben90\OneDrive\Documents\PROGRAMING_2\Object Oriented Development\p1\p2\obj\Debug\netcoreapp2.0\p2.dll
+C:\Users\ben90\OneDrive\Documents\PROGRAMING_2\Object Oriented Development\p1\p2\obj\Debug\netcoreapp2.0\p2.pdb
+C:\Users\ben90\OneDrive\Documents\PROGRAMING_2\Object Oriented Development\p1\p2\bin\Debug\netcoreapp2.0\p1.dll
+C:\Users\ben90\OneDrive\Documents\PROGRAMING_2\Object Oriented Development\p1\p2\bin\Debug\netcoreapp2.0\p1.pdb
